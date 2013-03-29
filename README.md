@@ -1,4 +1,0 @@
-Game
-===========
-
-AngularJS example app!!!!
